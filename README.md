@@ -6,7 +6,7 @@ It extends the original architecture with additional models and risk-testing fun
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This repository implements and compares multiple approaches for modelling and forecasting financial market volatility:
 
@@ -27,7 +27,7 @@ This repository implements and compares multiple approaches for modelling and fo
 
 ---
 
-## 📉 Value-at-Risk (VaR) Engine
+## Value-at-Risk (VaR) Engine
 
 A modular VaR engine is included for risk assessment:
 
@@ -43,7 +43,7 @@ A modular VaR engine is included for risk assessment:
 
 ---
 
-## 🔍 Statistical Backtests (Added in this version)
+## Statistical Backtests (Added in this version)
 
 ### **Kupiec POF Test**
 Evaluates whether the empirical violation frequency matches the theoretical VaR confidence level.  
@@ -68,6 +68,4 @@ Results include:
 - p-value for full conditional coverage  
 
 ---
-
-## 📁 Project Structure
 
